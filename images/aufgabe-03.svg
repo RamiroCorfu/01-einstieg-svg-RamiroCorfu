@@ -1,3 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
 
+<rect width="100" height="100" x="50" y="50" stroke="aqua" stroke-width="10"/>
+
+<circle cx="100" cy="100" r="40" stroke="blanchedalmond" stroke-width="10"/>
+
 </svg>
