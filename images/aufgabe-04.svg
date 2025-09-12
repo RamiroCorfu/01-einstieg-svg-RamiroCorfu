@@ -1,3 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
 
+
+<defs>
+<rect id="my-rect" width="100" height="100" fill="#ffe76e" opacity="0.5"/>
+
+</defs>
+    
+
+
+<rect width="100" height="100" x="50" y="50" fill="transparent"
+ stroke="blueviolet" stroke-width="10"/>
+<use href="#my-rect" transform="translate(100, 30) rotate(45)" />
+
 </svg>
