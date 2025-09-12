@@ -1,3 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" height="500" version="1.1" width="500">
     
+<circle cx="50" cy="250" r="50"fill="bisque" />
+<circle cx="130" cy="250" r="30"fill="#0f83e7" />
+<circle cx="175" cy="250" r="15"fill="#41cf31" />
+
+
+
 </svg>
